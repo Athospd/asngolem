@@ -5,11 +5,28 @@ Authors@R: person('Athos', 'Damiani', email = 'athos.damiani@gmail.com', role = 
 Description: Pacote de exemplo da ASN ROCKS usando Golem.
 License: MIT + file LICENSE
 Imports: 
+    attempt,
     config (>= 0.3.1),
+    DT,
+    ggplot2,
+    glue,
     golem (>= 0.3.1),
+    htmltools,
+    httr,
+    processx,
     shiny (>= 1.6.0)
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
 URL: https://github.com/Athospd/asngolem
 BugReports: https://github.com/Athospd/asngolem/issues
+Suggests: 
+    rmarkdown,
+    knitr,
+    spelling,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Language: en-US
+Depends: 
+    R (>= 2.10)
+VignetteBuilder: knitr
