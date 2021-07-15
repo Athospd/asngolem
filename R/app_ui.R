@@ -11,7 +11,7 @@ app_ui <- function(request) {
     # Your application UI logic
     fluidPage(
       h1("asngolem"),
-      sliderInput("ok", "OPA!", min = 1, max = 4, value = 3)
+      sliderInput("ok", "OPA!", min = 1, max = 77, value = 3)
     )
   )
 }

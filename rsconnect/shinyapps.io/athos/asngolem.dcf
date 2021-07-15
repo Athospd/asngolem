@@ -1,0 +1,13 @@
+name: asngolem
+title: asngolem
+username:
+account: athos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4387082
+bundleId: 4820651
+url: https://athos.shinyapps.io/asngolem/
+when: 1626309545.47819
+lastSyncTime: 1626309545.47819
+asMultiple: FALSE
+asStatic: FALSE
